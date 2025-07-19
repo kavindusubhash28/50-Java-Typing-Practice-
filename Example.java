@@ -1,6 +1,13 @@
 class Example {
 	public static void main (String[] args) {
-		System.out.println(20230326);
-		System.out.println("2023-03-26");
+		int x,y,z;
+		x=10;
+		y=20;
+		z=x+y;
+		System.out.println(x+" + "+y+" = "+z);
+		z=x-y;
+		System.out.println(x+" - "+y+" = "+z);
+		z=x*y;
+		System.out.println(x+" * "+y+" = "+z);
 	}
 }
