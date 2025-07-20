@@ -1,17 +1,10 @@
-import java.util.*;
-class Example {
-    public static void main(String args[]){
-        Scanner input = new Scanner(System.in);
-        System.out.print("Enter your marks - ");
-        int mark = input.nextInt();
-        if(mark >= 75){
-            System.out.println("your grade is A");
-        } else if(mark >= 65){
-            System.out.println("your grade is B");
-        } else if(mark >= 50){
-            System.out.println("your grade is C");
-        } else {
-            System.out.println("your grade is F");
-        }
-    }
+public class Example{
+	public static void main(String args[]){
+		for(int i=-5;i<6;i++){
+			int result =i!=0?100/i:0;
+			if(i!=0){
+				System.out.println("100/"+i+"is"+result);
+			}
+		}
+	}
 }
