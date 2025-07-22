@@ -27,3 +27,20 @@ Topics covered include:
 1. Open Command Prompt  
 2. Navigate to the folder containing `.java` files  
 3. Compile:  
+
+
+## 📚 Assignment Details
+
+- **Course**: Java Programming  
+- **Institute**: ICET  
+- **Assignment**: Practice 50 Java programs  
+- **Tools Used**: Notepad, Command Prompt  
+- **Submission Format**: PDF with code and output screenshots
+
+## 📌 Note
+
+All programs are handwritten and tested via the command line. This exercise helped me build a strong foundation in Java while developing discipline in manual code writing and execution.
+
+---
+
+Feel free to explore this repo. Suggestions and feedback are always welcome!
